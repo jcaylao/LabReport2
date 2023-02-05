@@ -60,3 +60,5 @@ class StringServer {
     }
 }
 ```
+![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-05%20140628.png?raw=true)
+![Image](https://user-images.githubusercontent.com/122569462/216848724-2effe37c-ae58-46a6-ad49-aa7fb1ecab5d.png)
