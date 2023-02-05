@@ -1,7 +1,8 @@
 # **Lab Report 2 - Servers & Bugs (Week 3)**
 
 # **Part 1**
-`import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
@@ -57,5 +58,5 @@ class StringServer {
 
         Server.start(port, new Handler());
     }
-}`
-hello
+}
+```
