@@ -98,7 +98,9 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
 ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20124844.png?raw=true)
 
 **The bug, as the before-and-after code change required to fix it**
+
 **Before:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125040.png?raw=true)
+
 **After:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125142.png?raw=true)
 
 # **Part 3**
