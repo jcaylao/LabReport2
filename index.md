@@ -103,7 +103,7 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
 
 **After:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125142.png?raw=true)
 
-The new code addresses the issue because it uses a temporary array to reverse the elements in the array as opposed to changing the current array, which is what the before code was doing. 
+The new code addresses the issue because it uses a temporary array to reverse the elements in the array as opposed to changing the current array, which is what the before code was doing.
 
 # **Part 3**
 
