@@ -103,6 +103,8 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
 
 **After:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125142.png?raw=true)
 
+The new code addresses the issue because it uses a temporary array to reverse the elements in the array as opposed to changing the current array, which is what the before code was doing. 
+
 # **Part 3**
 
 In lab of week 2, I learned how to download code from my repository and uploade changes using Github Desktop. This class is my first time getting introduced to github and so this was also my first time getting introduced to Github desktop. Although this was my first time, the lab write-up made this process easy because it was really easy to follow along through the steps given. This process also included learning how to commit and push the changes I made in order for it to appear on Github. Learning this was really useful because I have used this method of downloading code and cloning repositories through Github Desktop multiple times in some of the future labs. 
