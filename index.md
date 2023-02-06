@@ -74,6 +74,16 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
 
 # **Part 2**
 
+**A failure-inducing input for the buggy program**
+```
+  @Test
+  public void testReverseInPlaceFail() {
+    int[] input2 = {8,9,10};
+    ArrayExamples.reverseInPlace(input2);
+    assertArrayEquals(new int[]{10,9,8}, input2);
+  }
+ ```
+
 # **Part 3**
 
 In lab of week 2, I learned how to download code from my repository and uploade changes using Github Desktop. This class is my first time getting introduced to github and so this was also my first time getting introduced to Github desktop. Although this was my first time, the lab write-up made this process easy because it was really easy to follow along through the steps given. This process also included learning how to commit and push the changes I made in order for it to appear on Github. Learning this was really useful because I have used this method of downloading code and cloning repositories through Github Desktop multiple times in some of the future labs. 
