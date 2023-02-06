@@ -69,3 +69,8 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
 First *handleRequest* is called, the relevant arguments of handleRequest is a url of type URI. *Parameters* is a string array that contains strings of the url. The value of the variable *word* is *"Hi"* and then once I input the add request *word* is reassigned to the string *"my name is jaira"*. *wordList* contains only 1 element which is the string *"Hi"*, then *"my name is jaira"* is added which results in wordList containing 2 elements.
 
 Then *printStrings* method is called, the relevant arguments of printStrings is an arraylist of type String. The stringBuilder *result* starts off as empty then elements of list are appended.
+
+# **Part 2**
+
+# **Part 3**
+In lab of week 2, 
