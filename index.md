@@ -83,6 +83,23 @@ Then *printStrings* method is called, the relevant arguments of printStrings is 
     assertArrayEquals(new int[]{10,9,8}, input2);
   }
  ```
+ 
+ **An input that doesn’t induce a failure**
+ ```
+ 	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = { 555 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 555 }, input1);
+	}
+```
+
+**The symptom, as the output of running the tests**
+![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20124844.png?raw=true)
+
+**The bug, as the before-and-after code change required to fix it**
+**Before:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125040.png?raw=true)
+**After:** ![Image](https://github.com/jcaylao/LabReport2/blob/main/Screenshot%202023-02-06%20125142.png?raw=true)
 
 # **Part 3**
 
